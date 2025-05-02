@@ -1,0 +1,29 @@
+# Ignore dataset images and labels
+datasets/
+results/
+*.mp4
+*.png
+*.jpg
+*.jpeg
+
+# Ignore model weights if needed (optional)
+model/*.pt
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log and cache files
+*.log
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.npy
+*.cache
