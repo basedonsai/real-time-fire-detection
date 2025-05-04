@@ -9,7 +9,7 @@ results/
 # Ignore model weights if needed (optional)
 model/*.pt
 
-# Ignore Python virtual environment
+# Ignore Python virtual environment ujvhjuf
 venv/
 
 # Ignore Jupyter notebook checkpoints
